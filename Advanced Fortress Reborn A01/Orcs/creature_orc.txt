@@ -190,7 +190,7 @@ creature_orc
 			[CDI:TARGET_RANGE:C:10]
 			[CDI:MAX_TARGET_NUMBER:C:1]
 			[CDI:WAIT_PERIOD:143]
-		[CAN_DO_INTERACTION:DRUID_BLESSING]
+		[CAN_DO_INTERACTION:SHAMAN_BLESSING]
 			[CDI:ADV_NAME:call upon the blessing of the orcish gods]
 			[CDI:VERB:invoke blessing:invokes blessing:NA]
 			[CDI:TARGET:A:LINE_OF_SIGHT]
